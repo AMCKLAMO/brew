@@ -1,0 +1,6 @@
+# Character Profile
+### **Name:** *Nek Droi*
+### **Age:** *34*
+### **Species:** *Human (Drodan Enhancements)*
+### **Birthplace:** *Sairas*
+##### **Biography:** *Droi was born on the planet Sairas into a family of human "assistants" that were enslaved by the Garrynx for generations. Droi was chosen to be a house slave at the age of seven, a position in which he met fellow slave Emida with whom he formed a close bond due to being orphaned after his parents were executed. After many years of mistreatment from his owners, Droi began to resent the Garrynx and made many attempts to escape from captivity with his accomplice Emida. At the age of 34, Droi finally escaped with Emida and fled to the Sairas citadel to evade those now hunting him. After sustaining some injuries, he was equipped by Emida with the latest stolen Drodan technological parts to enhance his body. The two were chased by Garrynx guards, resulting in the death of Emida. However, Droi managed to escape aboard a freighter headed to Ereide, a moon known for its lively perpetual nighttime entertainment. There, he worked as a waiter, until he was mugged by smugglers and sustained trauma to his head, resulting in memory loss.*
