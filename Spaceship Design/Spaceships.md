@@ -8,8 +8,9 @@
 |:---|:---:|:---:|---:|
 | Cockpit | Storage | Engine Room | Engine |
 | ^ | ^ | ^ | ^ |
+
 `example of how a simple spaceship could be like`
-- ***
+- **
 # **Quarters:**
 - **Engine**
   - *Engine:* Most ships present rely on ion propulsion, which contains an engine that will take up a single quarter.
