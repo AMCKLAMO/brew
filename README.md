@@ -1,6 +1,6 @@
 # **SD-D: Space D&amp;D Files**
 
-![alt text](http://www.igorstshirts.com/blog/conceptships/2016/sebastien_hue/sebastien_hue_01.jpg)
+![](http://www.igorstshirts.com/blog/conceptships/2016/sebastien_hue/sebastien_hue_01.jpg)
 
 ### Please save you characters files within your own directory. General files regarding the game mechanics or setting information can be stored within a directory of your choice (with a name relevant to the content).
 
