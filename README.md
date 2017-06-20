@@ -1,6 +1,4 @@
-# **SD-D: Space D&D Files**
-
-## **Index:**
+# **Index:**
 
 ### Creator Files:
 * Space Master:
