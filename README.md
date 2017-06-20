@@ -1,4 +1,4 @@
-# **SD-D: Space D&amp;D Files**
+# **SD-D: Space D&D Files**
 
 ![](http://www.igorstshirts.com/blog/conceptships/2016/sebastien_hue/sebastien_hue_01.jpg)
 
