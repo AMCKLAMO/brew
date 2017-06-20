@@ -19,4 +19,4 @@
 - **Storage: ** Any ship that requires to transport items will have a cargo room.
 - **
 # **Engine:**
-*The ion thruster being the most cheaply made and readily available engine. The main fuel source is _Xenon_, as it is commonly produced in Gelidaterra. (It was knocked out of its sun's orbit making it extremely cold; cold enough that it previously gaseous supplies of Xenon collected on the surface in lumps making it a excellent solid fuel when kept at 150 degrees centigrade)*
+*The ion thruster being the most cheaply made and readily available engine. The main fuel source is _Xenon_, as it is commonly produced in Gelidaterra. (It was knocked out of its sun's orbit making it extremely cold; cold enough that it previously gaseous supplies of Xenon collected on the surface in lumps making it a excellent solid fuel when kept at -150 degrees centigrade)*
