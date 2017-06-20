@@ -1,4 +1,4 @@
-# __**Spaceships**__
+# **Spaceships**
 ## **Guide on Spaceships:**
 ### *The majority of Spaceships present in the galaxy will follow a de facto format of the quarters. There are a few necessary rooms, however others may be added to improve efficiency, weapons arsenal, storage or leisure spaces. All quarters take up a certain allotted amount of space, and will cost a certain amount to place and build. The basis of this building measurement is a 'Quarter', which is the size of a basic room.*
 
